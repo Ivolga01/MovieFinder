@@ -2,8 +2,8 @@
 
 Приложение для поиска фильмов/сериалов по названию
 
-Swift
-CocoaPods
-SnapKit
-URLSession
-MVP
+- Swift
+- CocoaPods
+- SnapKit
+- URLSession
+- MVP
